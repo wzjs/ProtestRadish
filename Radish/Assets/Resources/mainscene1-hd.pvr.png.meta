@@ -1,0 +1,871 @@
+fileFormatVersion: 2
+guid: 29dc5c6c38c1cb74a8ee89207bf8977d
+timeCreated: 1490269168
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mainscene1-hd.pvr_0
+    21300002: mainscene1-hd.pvr_1
+    21300004: mainscene1-hd.pvr_2
+    21300006: mainscene1-hd.pvr_3
+    21300008: mainscene1-hd.pvr_4
+    21300010: mainscene1-hd.pvr_5
+    21300012: mainscene1-hd.pvr_6
+    21300014: mainscene1-hd.pvr_7
+    21300016: mainscene1-hd.pvr_8
+    21300018: mainscene1-hd.pvr_9
+    21300020: mainscene1-hd.pvr_10
+    21300022: mainscene1-hd.pvr_11
+    21300024: mainscene1-hd.pvr_12
+    21300026: mainscene1-hd.pvr_13
+    21300028: mainscene1-hd.pvr_14
+    21300030: mainscene1-hd.pvr_15
+    21300032: mainscene1-hd.pvr_16
+    21300034: mainscene1-hd.pvr_17
+    21300036: mainscene1-hd.pvr_18
+    21300038: mainscene1-hd.pvr_19
+    21300040: mainscene1-hd.pvr_20
+    21300042: mainscene1-hd.pvr_21
+    21300044: mainscene1-hd.pvr_22
+    21300046: mainscene1-hd.pvr_23
+    21300048: mainscene1-hd.pvr_24
+    21300050: mainscene1-hd.pvr_25
+    21300052: mainscene1-hd.pvr_26
+    21300054: mainscene1-hd.pvr_27
+    21300056: mainscene1-hd.pvr_28
+    21300058: mainscene1-hd.pvr_29
+    21300060: mainscene1-hd.pvr_30
+    21300062: mainscene1-hd.pvr_31
+    21300064: mainscene1-hd.pvr_32
+    21300066: mainscene1-hd.pvr_33
+    21300068: mainscene1-hd.pvr_34
+    21300070: mainscene1-hd.pvr_35
+    21300072: mainscene1-hd.pvr_36
+    21300074: mainscene1-hd.pvr_37
+    21300076: mainscene1-hd.pvr_38
+    21300078: mainscene1-hd.pvr_39
+    21300080: mainscene1-hd.pvr_40
+    21300082: mainscene1-hd.pvr_41
+    21300084: mainscene1-hd.pvr_42
+    21300086: mainscene1-hd.pvr_43
+    21300088: mainscene1-hd.pvr_44
+    21300090: mainscene1-hd.pvr_45
+    21300092: mainscene1-hd.pvr_46
+    21300094: mainscene1-hd.pvr_47
+    21300096: mainscene1-hd.pvr_48
+    21300098: mainscene1-hd.pvr_49
+    21300100: mainscene1-hd.pvr_50
+    21300102: mainscene1-hd.pvr_51
+    21300104: mainscene1-hd.pvr_52
+    21300106: mainscene1-hd.pvr_53
+    21300108: mainscene1-hd.pvr_54
+    21300110: mainscene1-hd.pvr_55
+    21300112: mainscene1-hd.pvr_56
+    21300114: mainscene1-hd.pvr_57
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mainscene1-hd.pvr_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1086
+        width: 640
+        height: 960
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainscene1-hd.pvr_1
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 1325
+        width: 349
+        height: 718
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainscene1-hd.pvr_2
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 2023
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainscene1-hd.pvr_3
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1939
+        width: 103
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainscene1-hd.pvr_4
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 1939
+        width: 103
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainscene1-hd.pvr_5
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 1950
+        width: 63
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainscene1-hd.pvr_6
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 1947
+        width: 57
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainscene1-hd.pvr_7
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 1986
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainscene1-hd.pvr_8
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 1986
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainscene1-hd.pvr_9
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 1958
+        width: 292
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainscene1-hd.pvr_10
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1514
+        width: 273
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainscene1-hd.pvr_11
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 1969
+        width: 9
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainscene1-hd.pvr_12
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 1924
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainscene1-hd.pvr_13
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 1924
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainscene1-hd.pvr_14
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1829
+        width: 102
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainscene1-hd.pvr_15
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 1829
+        width: 102
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainscene1-hd.pvr_16
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 1845
+        width: 57
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainscene1-hd.pvr_17
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 1847
+        width: 58
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainscene1-hd.pvr_18
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 1862
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainscene1-hd.pvr_19
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 1834
+        width: 292
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainscene1-hd.pvr_20
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 1761
+        width: 5
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainscene1-hd.pvr_21
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 1515
+        width: 95
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainscene1-hd.pvr_22
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 1515
+        width: 88
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainscene1-hd.pvr_23
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 1515
+        width: 88
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainscene1-hd.pvr_24
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 1515
+        width: 88
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainscene1-hd.pvr_25
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 1515
+        width: 88
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainscene1-hd.pvr_26
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 1684
+        width: 123
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainscene1-hd.pvr_27
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 1752
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainscene1-hd.pvr_28
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 1572
+        width: 115
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainscene1-hd.pvr_29
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 1517
+        width: 64
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainscene1-hd.pvr_30
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 1516
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainscene1-hd.pvr_31
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 1336
+        width: 88
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainscene1-hd.pvr_32
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 1369
+        width: 196
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainscene1-hd.pvr_33
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 1240
+        width: 444
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainscene1-hd.pvr_34
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 1423
+        width: 292
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainscene1-hd.pvr_35
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 1328
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainscene1-hd.pvr_36
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 1299
+        width: 292
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainscene1-hd.pvr_37
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 1102
+        width: 191
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainscene1-hd.pvr_38
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 1115
+        width: 246
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainscene1-hd.pvr_39
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1184
+        width: 136
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainscene1-hd.pvr_40
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 1219
+        width: 39
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainscene1-hd.pvr_41
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 1221
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainscene1-hd.pvr_42
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 1175
+        width: 292
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainscene1-hd.pvr_43
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 1114
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainscene1-hd.pvr_44
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 1114
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainscene1-hd.pvr_45
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 1114
+        width: 59
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainscene1-hd.pvr_46
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 1120
+        width: 286
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainscene1-hd.pvr_47
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 1125
+        width: 74
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainscene1-hd.pvr_48
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 1149
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainscene1-hd.pvr_49
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 994
+        width: 285
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainscene1-hd.pvr_50
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 994
+        width: 285
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainscene1-hd.pvr_51
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 994
+        width: 286
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainscene1-hd.pvr_52
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 993
+        width: 262
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainscene1-hd.pvr_53
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 1024
+        width: 292
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainscene1-hd.pvr_54
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 992
+        width: 273
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainscene1-hd.pvr_55
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 1027
+        width: 56
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainscene1-hd.pvr_56
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 1033
+        width: 103
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mainscene1-hd.pvr_57
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 1038
+        width: 107
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
